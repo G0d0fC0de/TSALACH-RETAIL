@@ -3,12 +3,12 @@ Welcome to Tsalach Retail!
 This repository contains the code for the Tsalach Retail website, a modern and responsive e-commerce platform designed to provide a seamless shopping experience.
 
 ## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+Features
+Installation
+Usage
+Contributing
+License
+Contact
 
 ## Features
 - **Responsive Design**: Optimized for desktops, tablets, and smartphones.
